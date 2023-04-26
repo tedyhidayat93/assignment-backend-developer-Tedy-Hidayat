@@ -2,5 +2,6 @@
 # TEST Backend Developer - IMP Studio
 
 ## Sedikit catatan :
-- untuk collction postman bernama TEST IMP.postman_collection.json
+- Untuk collection postman bernama TEST IMP.postman_collection.json
 - Menggunakan Repository & Service Pattern
+- php artisan serv --port=3000 untuk running
